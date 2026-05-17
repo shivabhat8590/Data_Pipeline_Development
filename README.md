@@ -1,3 +1,12 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Shivaprasad Bhat M
+
+INTERN ID: CTIS7640
+
+DOMAIN: DATA SCIENCE DURATION: 12 WEEKS
+
+MENTOR: NEELA SANTOSH
 # Titanic Data Pipeline Project
 
 This project demonstrates an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and Scikit-learn for preprocessing Titanic dataset data.
