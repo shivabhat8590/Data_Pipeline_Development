@@ -46,3 +46,6 @@ data_pipeline_project/
 >How to Run
 Run the pipeline using:
 python pipeline.py
+
+Output
+<img width="1581" height="811" alt="Image" src="https://github.com/user-attachments/assets/94c94427-7775-46c1-8849-8a5fa2f33537" />
